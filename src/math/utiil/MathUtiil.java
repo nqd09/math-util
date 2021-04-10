@@ -15,7 +15,9 @@ public class MathUtiil {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello");
+        // Tính 5! có ra 120 k ?
+        long result = Math.getFactorial(5);
+        System.out.println("5! = " +result);
     }
     
 }
