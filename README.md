@@ -10,4 +10,5 @@ method such as: sin, cos, tan, log, factorial .. that can be used in your projec
 
 ### Connect me via: 
 [My FaceBook](https://www.facebook.com/profile.php?id=100041413338383)
-©2021.QuocDat
+
+###©2021.QuocDat
